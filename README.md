@@ -30,6 +30,7 @@ Or install it yourself as:
 Within a Tk project, you'll need to have a Window with a Frame to place the Doubleslider within.  Here is a minimalistic example:
 
 	require 'tk'
+	require 'tk/doubleslider'
 	
 	def minimal_example()
 		# create the root window for this Tk app
